@@ -1,4 +1,4 @@
-# Title: Inferring ancestral state: Polarizing data
+# Inferring ancestral state: Polarizing data
 
 ## Author: Lorena Lorenzo Fernández
 
